@@ -1,20 +1,33 @@
-# Routine Schedule 
+# Routine schedule and meeting types 
+## 6-9pm PST 
 
-## Class time, Monday - Thursday 
+## Schedule 
+### B weeks (odd numbered)
+- **Monday**: Training kit prep and guided project (lecture). 
+_I fill out an attendance form_. 
+- **Tuesday**: Project time, plus team standup at 8:30pm PT. 
+_I fill out an attendance form *and* standup form_.
+- **Wednesday**: Training kit prep and guided project (lecture). 
+_I fill out an attendance form_. 
+- **Thursday**: Project time, plus team standup at 8:30pm PT. 
+_I fill out an attendance form *and* standup form_.
+- **Fifth Day**: Sprint Challenge. 
+_I fill out an attendance form. The sprint retro isn't unti Monday_. 
 
-A week, even numbered 
-4-7pm Pacific 
+### A weeks (even numbered)
+- **Monday**: 1:1 code reviews with TL and training kit prep. 
+_I fill out an attendance form, and sprint retrospective form for students_. 
+- **Tuesday**: Training kit prep and guided project (lecture). 
+_I fill out an attendance form_. 
+- **Wednesday**: Project time, plus team standup at 8:30pm PT. 
+_I fill out an attendance form *and* standup form_.
+- **Thursday**: Training kit prep and guided project (lecture).
+_I fill out an attendance form_. 
+- **Fifth day**: Project time, plus team standup 30 minutes before session ends. 
+_I fill out an attendance form *and* standup form_.
 
-Tuesday, Wednesday, Thursday = Project code reviews 
 
-Monday = Sprint challenge code review 
-
-Wednesday: team standup meeting, 6:30 - 7 
-
-5th Day: 30 min standup at end. 
-
-
-I will be taking attendance here. 
+## Meeting types
 
 ## Code review 
 Check-in with student first - ask them how things are going and how they felt about their daily projects
