@@ -1,8 +1,8 @@
 # Working with Kimberlee
 
 ## Personality type 
-According to 16 Personalities: [Advocate](https://www.16personalities.com/infj-personality "Advocate personality description")
-According to Harry Potter: Slytherpuff 
+- According to 16 Personalities: [Advocate](https://www.16personalities.com/infj-personality "Advocate personality description")
+- According to Harry Potter: Slytherpuff 
 
 ## What does that mean? 
 Strengths: I am action-oriented, but those actions are almost always tied to a big dream or purpose. I’m happiest when I’m doing mission-focused work, and I’m very happy that my purpose over the next few months is to help you succeed at Lambda School. I tend to be driven by helping people solve problems, and I do my best to listen. 
