@@ -24,7 +24,7 @@ _In addition to filling out these rubrics, I'll also record feedback on our pull
 
 #### HTML 
 - [] Used markup to give the plain content meaning. 
-- [] HTML tags make sense (e.g. the <p> tag is not used where a <li> would be more appropriate).
+- [] HTML tags make sense (e.g. the paragraph tag is not used where a list item would be more appropriate).
 - [] Can talk through at least one decision they made around tags.
 
 #### CSS markup 
