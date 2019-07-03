@@ -2,7 +2,6 @@
 The next two weeks will get you used to the wonderful world of HTML, CSS, and JavaScript. Once you're done with these eight weeks, you'll be ready to build a website from scratch. 
 
 ## Three P's
-
 ### Prep
 - Lambda [training kit materials](https://learn.lambdaschool.com/fsw/sprint/recfwZvI7QhMa7xbG).
 
@@ -14,9 +13,9 @@ The next two weeks will get you used to the wonderful world of HTML, CSS, and Ja
 
 ## What I wish I knew before this Unit 
 - Day two, the inline-block styling unit, was one of my hardest. It will lay an important foundation for you to understand why flexbox is important (next day), but don't worry if it's a tough one. 
+- I also wish I had done this very simple [Github tutorial](https://guides.github.com/activities/hello-world/).
 
 ## Code review rubric 
-
 ### Project 1: Sweet Eats HTML + CSS markup 
 - [Boilerplate HTML project](https://codepen.io/lambdaschool/pen/vaKejB)
 - [Boilerplate CSS project](https://codepen.io/lambdaschool/pen/vaXWWG/?editors=0100)
