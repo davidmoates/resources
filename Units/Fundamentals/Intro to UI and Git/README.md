@@ -35,6 +35,7 @@ _In addition to filling out these rubrics, I'll also record feedback on our pull
 ### Project 2: 'Great Idea!' page
 -Project [Github repo](https://github.com/LambdaSchool/User-Interface) 
 
+#### Rubric 
 - [] Final project closely matches Lambda's design files. 
 - [] Can walk me through at least one piece of code they chose to achieve that goal. 
 - [] Best practices: code is adequately commented with frequent, descriptive commits; it's readable!
@@ -43,6 +44,7 @@ _In addition to filling out these rubrics, I'll also record feedback on our pull
 ### Project 3: 'Great Idea!' page, now with flexbox 
 - Project [Github repo](https://github.com/LambdaSchool/UI-III-Flexbox)
 
+#### Rubric 
 - [] Final project closely matches Lambda's design files. 
 - [] Can walk me through how at least one piece of flexbox code made yesterday's code obsolete. 
 - [] Best practices: code is adequately commented with frequent, descriptive commits; it's readable!
@@ -51,6 +53,7 @@ _In addition to filling out these rubrics, I'll also record feedback on our pull
 ### Project 4: Git for Web development 
 - Project [Github repo](https://github.com/LambdaSchool/Git-for-Web-Development-Project)
 
+#### Rubric 
 - [] Follows proper git workflow to fork, clone, and PR project repo. 
 - [] Follows same git workflow for previous projects. 
 - [] Can chat through the steps of that workflow. 
@@ -58,6 +61,7 @@ _In addition to filling out these rubrics, I'll also record feedback on our pull
 ## Sprint Challenge code review 
 - Sprint [Github repo](https://github.com/LambdaSchool/Sprint-Challenge--User-Interface)
 
+#### Rubric 
 - [] Best practices: code is adequately commented with frequent, descriptive commits; it's readable, and proper git workflow followed. 
 - [] Home page matches design files.
     - [] Navigation appears. 
