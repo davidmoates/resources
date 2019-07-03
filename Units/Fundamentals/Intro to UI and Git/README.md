@@ -16,6 +16,8 @@ The next two weeks will get you used to the wonderful world of HTML, CSS, and Ja
 - I also wish I had done this very simple [Github tutorial](https://guides.github.com/activities/hello-world/).
 
 ## Code review rubric 
+_In addition to filling out these rubrics, I'll also record feedback on our pull request based off the blockers and goals you share with me._ 
+
 ### Project 1: Sweet Eats HTML + CSS markup 
 - [Boilerplate HTML project](https://codepen.io/lambdaschool/pen/vaKejB)
 - [Boilerplate CSS project](https://codepen.io/lambdaschool/pen/vaXWWG/?editors=0100)
@@ -23,14 +25,20 @@ The next two weeks will get you used to the wonderful world of HTML, CSS, and Ja
 #### HTML 
 [] Used markup to give the plain content meaning. 
 [] HTML tags make sense (e.g. the <p> tag is not used where a <li> would be more appropriate).
-[] Student can talk through at least one decision they made around tags.
+[] Can talk through at least one decision they made around tags.
 
 #### CSS markup 
-[] Student's final result matches Lambda's [final product](https://tk-assets.lambdaschool.com/44f6a520-b218-4ed1-910b-f4dc876cd1a6_sweet-eats-home-page.png).
-[] Student can walk me through one CSS decision they made. 
-[] Student can explain one new term they learned from Googling. 
+[] Final result matches Lambda's [final product](https://tk-assets.lambdaschool.com/44f6a520-b218-4ed1-910b-f4dc876cd1a6_sweet-eats-home-page.png).
+[] Can walk me through one CSS decision they made. 
+[] Can explain one new term they learned from Googling. 
 
-### Project 2 code review
+### Project 2: 'Great Idea!' web page
+-Project [Github repo](https://github.com/LambdaSchool/User-Interface) 
+
+[] Final project closely matches Lambda's design files. 
+[] Can walk me through at least one piece of code they chose to achieve that goal. 
+[] Best practices: code is adequately commented with frequent, descriptive commits; it's readable!
+[] Stretch: new nav bar color, font family, page, background image, and/or CSS animations. 
 
 ### Project 3 code review
 
