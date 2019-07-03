@@ -10,19 +10,19 @@ Purpose: To keep my Lambda community informed of what I'm working on, so everyon
 6/30/19
 ## Previous week's work 
 ### At Lambda School 
-- Attended Lambda's incredibly helpful Team Lead training, where I role-played some interactions with students, drafted a leadership philosophy, and took a personality test. 
-- Began building this Resources repo and README for my future student group. 
-- Met with a prospective Lambda student. 
+[x] Attended Lambda's incredibly helpful Team Lead training, where I role-played some interactions with students, drafted a leadership philosophy, and took a personality test. 
+[x] Began building this Resources repo and README for my future student group. 
+[x] Met with a prospective Lambda student. 
 
 ### Outside projects and learning 
-- JS katas every day! 
-- Shipped the first draft of a design brief for a website redesign for the California Society of Pioneers. 
-- Commented old Tweetmate code and reached out to Jay about beginning our blog post. 
-- Watched CS50 lecture 2 on algorithms, and submitted the first of three psets (a cipher built in C).
+[x] JS katas every day! 
+[x] Shipped the first draft of a design brief for a website redesign for the California Society of Pioneers. 
+[x] Commented old Tweetmate code and reached out to Jay about beginning our blog post. 
+[x] Watched CS50 lecture 2 on algorithms, and submitted the first of three psets (a cipher built in C).
 
 ### Life outside of Lambda 
-- 8 mile long run, four weeks until the half marathon \o/ 
-- Toy Story 4 is so. good. 
+[x] 8 mile long run, four weeks until the half marathon \o/ 
+[x] Toy Story 4 is so. good. 
 
 ## Plans and priorities for this week 
 ### At Lambda School 
