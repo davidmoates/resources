@@ -29,17 +29,12 @@ _I fill out an attendance form *and* standup form_.
 
 ## Meeting types
 
-## Code review 
-Check-in with student first - ask them how things are going and how they felt about their daily projects
-Ask students to walk through their project and in particular, ask them to identify where/which objectives they met in their projects
-Ask students to identify what, if any, blockers they experienced
-Ask students to identify at least 1 area/skill/objective they felt most confident in
-Ask students to identify at least 1 area/skill/objective they need to continue to focus on
-Provide students with at least 2 pieces of actionable feedback tied to module objectives
-Ask students to identify 1 target, actionable goal for the remainder of the sprint
-Ask students if they have any questions that are still lingering
-Conclude with any reminders, follow-ups, action steps
+### Team standups 
+We’ll generally cover three things: 1) What did you accomplish today? 2) What do I need to finish before tomorrow? 3) What blockers am I having? These should take no more than half an hour of your time. Once everyone covers those, we'll close out with one thing we're excited about, maybe even outside of Lambda. 
 
-I will be filling out a form too. 
+### Project and Sprint code reviews 
+We'll go over how things are going and how you're feeling. Then I'll ask you to walk through your projects, identifying how you met the objectives. A good structure for this could be, "Here is what I had to do (objectives). Here is how I did it." 
 
-## Sprint review 
+Then, we'll go over blockers, where you feel confident, and what you'd like to focus on. I'll give you two pieces of feedback based on what you share there and our objectives for the unit, and I'll also ask you to come up with a goal for the remainder of the unite. 
+
+We'll close with a recap and any outstanding questions.  
