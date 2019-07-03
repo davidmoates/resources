@@ -15,7 +15,7 @@ The next two weeks will get you used to the wonderful world of HTML, CSS, and Ja
 - Day two, the inline-block styling unit, was one of my hardest. It will lay an important foundation for you to understand why flexbox is important (next day), but don't worry if it's a tough one. 
 - I also wish I had done this very simple [Github tutorial](https://guides.github.com/activities/hello-world/).
 
-## Code review rubric 
+## Project code reviews 
 _In addition to filling out these rubrics, I'll also record feedback on our pull request based off the blockers and goals you share with me._ 
 
 ### Project 1: Sweet Eats HTML + CSS markup 
