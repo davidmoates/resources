@@ -32,15 +32,21 @@ _In addition to filling out these rubrics, I'll also record feedback on our pull
 [] Can walk me through one CSS decision they made. 
 [] Can explain one new term they learned from Googling. 
 
-### Project 2: 'Great Idea!' web page
+### Project 2: 'Great Idea!' page
 -Project [Github repo](https://github.com/LambdaSchool/User-Interface) 
 
 [] Final project closely matches Lambda's design files. 
 [] Can walk me through at least one piece of code they chose to achieve that goal. 
 [] Best practices: code is adequately commented with frequent, descriptive commits; it's readable!
-[] Stretch: new nav bar color, font family, page, background image, and/or CSS animations. 
+[] Stretch: new nav bar color, font family, page, background image, and/or CSS animations attempted. 
 
-### Project 3 code review
+### Project 3: 'Great Idea!' page, now with flexbox 
+- Project [Github repo](https://github.com/LambdaSchool/UI-III-Flexbox)
+
+[] Final project closely matches Lambda's design files. 
+[] Can walk me through how at least one piece of flexbox code made yesterday's code obsolete. 
+[] Best practices: code is adequately commented with frequent, descriptive commits; it's readable!
+[] Stretch: new page, or media queries attempted. 
 
 ### Project 4 code review
 
