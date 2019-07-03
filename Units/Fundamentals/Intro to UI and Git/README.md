@@ -56,3 +56,21 @@ _In addition to filling out these rubrics, I'll also record feedback on our pull
 [] Can chat through the steps of that workflow. 
 
 ## Sprint Challenge code review 
+- Sprint [Github repo](https://github.com/LambdaSchool/Sprint-Challenge--User-Interface)
+
+[] Best practices: code is adequately commented with frequent, descriptive commits; it's readable, and proper git workflow followed. 
+[] Home page matches design files.
+    [] Navigation appears. 
+    [] Header appears. 
+    [] Boxes accurately styled. 
+[] Can walk me through how code made files match, sharing at least one concrete programming decision. 
+[] About page matches design files. 
+    [] Navigation and header match Home page. 
+    [] Header image has About page image. 
+    [] Home navigation links back to index. 
+[] Can walk me through how code made files match, sharing at least one concrete programming decision. 
+[] Stretch attempted
+    [] Extra page.
+    [] Some CSS animations. 
+    [] Contact page with a form. 
+    [] Responsive breakpoints with media queries. 
