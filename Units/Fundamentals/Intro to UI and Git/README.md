@@ -48,6 +48,11 @@ _In addition to filling out these rubrics, I'll also record feedback on our pull
 [] Best practices: code is adequately commented with frequent, descriptive commits; it's readable!
 [] Stretch: new page, or media queries attempted. 
 
-### Project 4 code review
+### Project 4: Git for Web development 
+- Project [Github repo](https://github.com/LambdaSchool/Git-for-Web-Development-Project)
+
+[] Follows proper git workflow to fork, clone, and PR project repo. 
+[] Follows same git workflow for previous projects. 
+[] Can chat through the steps of that workflow. 
 
 ## Sprint Challenge code review 
