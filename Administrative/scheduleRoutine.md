@@ -26,7 +26,6 @@ _I fill out an attendance form_.
 - **Fifth day**: Project time, plus team standup 30 minutes before session ends. 
 _I fill out an attendance form *and* standup form_.
 
-
 ## Meeting types
 
 ### Team standups 
