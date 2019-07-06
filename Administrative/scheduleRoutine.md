@@ -2,17 +2,6 @@
 ## 6-9pm PST 
 
 ## Schedule 
-### B weeks (odd numbered)
-- **Monday**: Training kit prep and guided project (lecture). 
-_I fill out an attendance form_. 
-- **Tuesday**: Project time, plus team standup at 8:30pm PT. 
-_I fill out an attendance form *and* standup form_.
-- **Wednesday**: Training kit prep and guided project (lecture). 
-_I fill out an attendance form_. 
-- **Thursday**: Project time, plus team standup at 8:30pm PT. 
-_I fill out an attendance form *and* standup form_.
-- **Fifth Day**: Sprint Challenge. 
-_I fill out an attendance form. The sprint retro isn't until Monday_. 
 
 ### A weeks (even numbered)
 - **Monday**: 1:1 code reviews with TL and training kit prep. 
@@ -25,6 +14,18 @@ _I fill out an attendance form *and* standup form_.
 _I fill out an attendance form_. 
 - **Fifth day**: Project time, plus team standup 30 minutes before session ends. 
 _I fill out an attendance form *and* standup form_.
+
+### B weeks (odd numbered)
+- **Monday**: Training kit prep and guided project (lecture). 
+_I fill out an attendance form_. 
+- **Tuesday**: Project time, plus team standup at 8:30pm PT. 
+_I fill out an attendance form *and* standup form_.
+- **Wednesday**: Training kit prep and guided project (lecture). 
+_I fill out an attendance form_. 
+- **Thursday**: Project time, plus team standup at 8:30pm PT. 
+_I fill out an attendance form *and* standup form_.
+- **Fifth Day**: Sprint Challenge. 
+_I fill out an attendance form. The sprint retro isn't until Monday_. 
 
 ## Meeting types
 
