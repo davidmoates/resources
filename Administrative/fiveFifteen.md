@@ -48,6 +48,7 @@ I've been grouped into an Android group, which I know nothing about, so this sho
 ### Life outside of Lambda 
 - [] Training runs, including 11 miler. 
 - [] Book race day eve appointment for me and Aisling. 
+- [] 10 min/day: Practice Aisling's wedding song. 
 
 ----------------------------------------------------------
 
