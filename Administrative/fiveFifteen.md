@@ -34,7 +34,7 @@ I've been grouped into an Android group, which I know nothing about, so this sho
 ### Outside projects and learning 
 - [] JS katas everyday! 
 - [] CA Society of Pioneers
-    - [] Confirm brief is good to go. 
+    - [\] Confirm brief is good to go. 
     - [] First Figma/Canvas mockup submitted by Friday.
 - [] CS50 
     - [] Crack pset
@@ -44,8 +44,8 @@ I've been grouped into an Android group, which I know nothing about, so this sho
 - [] Start Rails track on Treehouse, so you can built Li-berry with Rails
 
 ### Careers 
-- [] Map out which careers projects I still need to do. 
-- [] Complete at least one 
+- [x] Map out which careers projects I still need to do. 
+- [x] Complete at least one 
 
 ### Life outside of Lambda 
 - [] Training runs, including 11 miler. 
