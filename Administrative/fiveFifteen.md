@@ -7,9 +7,8 @@ General definition: 5:15s should take no more than 15 minutes to write and no mo
 Purpose: To keep my Lambda community informed of what I'm working on, so everyone can help hold me accountable. Ideally, it will spark conversations and feedback and general improvement. 
 
 ----------------------------------------------------------
-7/8/19
-
-## Summary 
+## 7/8/19
+### Summary 
 I'm feeling a bit behind after vacation week, but also very grateful that I got some good family time in. This week, I'll need to focus on getting into the new routine of Labs + night-time PM'ing, ironing out any kinks along the way. 
 
 I've been grouped into an Android group, which I know nothing about, so this should be fun! 
@@ -52,8 +51,8 @@ I've been grouped into an Android group, which I know nothing about, so this sho
 
 ----------------------------------------------------------
 
-6/30/19
-## Previous week's work 
+##6/30/19
+### Previous week's work 
 ### At Lambda School 
 - [x] Attended Lambda's incredibly helpful Team Lead training, where I role-played some interactions with students, drafted a leadership philosophy, and took a personality test. 
 - [x] Began building this Resources repo and README for my future student group. 
