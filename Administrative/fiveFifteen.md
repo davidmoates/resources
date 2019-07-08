@@ -41,6 +41,7 @@ I've been grouped into an Android group, which I know nothing about, so this sho
     - [] Watch lecture 3
 - [] Draft Tweetmate documentation. 
 - [] Map out Li-berry app on Figma/Canvas
+- [] Start Rails track on Treehouse, so you can built Li-berry with Rails
 
 ### Careers 
 - [] Map out which careers projects I still need to do. 
