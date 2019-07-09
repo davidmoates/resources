@@ -34,6 +34,7 @@ I've been grouped into an Android group, which I know nothing about, so this sho
 ### Outside projects and learning 
 - [] JS katas everyday! 
     - [x] Monday
+    - [X] Tuesday
 - [] CA Society of Pioneers
     - [\] Confirm brief is good to go. 
     - [] First Figma/Canvas mockup submitted by Friday.
