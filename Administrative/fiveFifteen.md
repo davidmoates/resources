@@ -24,7 +24,7 @@ I've been grouped into an Android group, which I know nothing about, so this sho
 
 ## Plans and priorities for this week 
 ### At Lambda School 
-- [] Kick off WEBPT 9 student group. 
+- [x] Kick off WEBPT 9 student group. 
 - [] Track attendance and fill out all forms for student group. 
 - [] Make a list of all the evenings I'll be gone. Flag to Winnie by EOW. 
 - [x] Kick off Labs team. 
@@ -53,6 +53,7 @@ I've been grouped into an Android group, which I know nothing about, so this sho
 - [] Training runs, including 11 miler. 
 - [] Book race day eve appointment for me and Aisling. 
 - [] 10 min/day: Practice Aisling's wedding song. 
+    - [x] Monday
 
 ----------------------------------------------------------
 
