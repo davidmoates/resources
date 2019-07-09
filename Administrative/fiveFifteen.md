@@ -27,12 +27,13 @@ I've been grouped into an Android group, which I know nothing about, so this sho
 - [] Kick off WEBPT 9 student group. 
 - [] Track attendance and fill out all forms for student group. 
 - [] Make a list of all the evenings I'll be gone. Flag to Winnie by EOW. 
-- [] Kick off Labs team. 
-- [] Finalize Prodcuct Vision Doc with Labs team. 
+- [x] Kick off Labs team. 
+- [] Finalize Product Vision Doc with Labs team. 
 - [] Prepare Production Ready Development Environment with Labs team. 
 
 ### Outside projects and learning 
 - [] JS katas everyday! 
+    - [x] Monday
 - [] CA Society of Pioneers
     - [\] Confirm brief is good to go. 
     - [] First Figma/Canvas mockup submitted by Friday.
