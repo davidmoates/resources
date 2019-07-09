@@ -39,7 +39,8 @@ I've been grouped into an Android group, which I know nothing about, so this sho
     - [\] Confirm brief is good to go. 
     - [] First Figma/Canvas mockup submitted by Friday.
 - [] CS50 
-    - [] Crack pset
+    ~~[] Crack pset~~
+    _I spent 30 minutes trying to figure this out, but it was my bonus one (I already did the two ciphers)_. 
     - [] Watch lecture 3
 - [] Draft Tweetmate documentation. 
 - [] Map out Li-berry app on Figma/Canvas
