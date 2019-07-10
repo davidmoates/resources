@@ -35,6 +35,7 @@ I've been grouped into an Android group, which I know nothing about, so this sho
 - [] JS katas everyday! 
     - [x] Monday
     - [X] Tuesday
+    - [x] Wednesday: Struggled really hard on incrementing/decrementing alternatively odds and evens in an array. 
 - [] CA Society of Pioneers
     - [\] Confirm brief is good to go. 
     - [] First Figma/Canvas mockup submitted by Friday.
