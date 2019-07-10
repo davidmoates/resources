@@ -47,6 +47,7 @@ I've been grouped into an Android group, which I know nothing about, so this sho
 - [] Map out Li-berry app on Figma/Canvas
 - [] Start Rails track on Treehouse, so you can built Li-berry with Rails
     - [x] Ruby syntax: # makes comments in Ruby; puts stands for "put string"; ruby doesn't need commas or parentheses, omg! def and end are needed to write functions in Ruby. Return values within Ruby methods seem to be implicit. Ruby syntax is all lowercase. 
+    - [x] Ruby syntax: p instead of puts; string concatenation looks like `" Something #{variable}"` in Ruby. Escape sequences. 
 
 ### Careers 
 - [x] Map out which careers projects I still need to do. 
