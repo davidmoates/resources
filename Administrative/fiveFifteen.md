@@ -59,6 +59,7 @@ I've been grouped into an Android group, which I know nothing about, so this sho
 - [] 10 min/day: Practice Aisling's wedding song. 
     - [x] Monday
     - [x] Tuesday 
+    - [x] Wednesday 
 
 ----------------------------------------------------------
 
